@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CipClient</string>
+    <string name="select_image">Select Image</string>
+    <string name="string_select_image" />
+    <string name="selected_image_path">Selected Image Path</string>
+    <string name="name">Name</string>
+</resources>
